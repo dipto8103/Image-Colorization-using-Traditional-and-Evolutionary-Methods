@@ -59,7 +59,7 @@ Image_Colorization_GAN_EC_Project/
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git) # Replace with your repo URL
+    git clone [https://github.com/dipto8103/Image-Colorization-using-Traditional-and-Evolutionary-Methods.git](https://github.com/dipto8103/Image-Colorization-using-Traditional-and-Evolutionary-Methods.git)
     cd your-repository-name
     ```
 
